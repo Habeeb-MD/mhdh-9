@@ -2,13 +2,12 @@
 <img src="https://komarev.com/ghpvc/?username=souravrax" />
 
 [![Website](https://img.shields.io/badge/-souravrakshit.me-black?style=flat-pill&logo=google-chrome&logoColor=white&link=https://souravrakshit.me/)](https://souravrakshit.me/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-souravrax-blue?style=flat-pill&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souravrax/)](https://www.linkedin.com/in/souravrax/)
-[![Gmail Badge](https://img.shields.io/badge/-rakshitsourav3@gmail.com-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:mxr180061@utdallas.edu)](mailto:rakshitsourav3@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-souravrax-black?style=flat-pill&logo=github&logoColor=white&link=https://github.com/manparvesh/)](https://github.com/souravrax/)
+  
+[![Linkedin Badge](https://img.shields.io/badge/-souravrax-blue?style=flat-pill&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/habget99/)](https://www.linkedin.com/in/habget99/)
+[![Gmail Badge](https://img.shields.io/badge/-rakshitsourav3@gmail.com-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:habeeb.17231@knit.ac.in)](mailto:habeeb.17231@knit.ac.in)
+[![Github Badge](https://img.shields.io/badge/-souravrax-black?style=flat-pill&logo=github&logoColor=white&link=https://github.com/mhdh-9/)](https://github.com/mhdh-9/)
 [![Leetcode Badge](https://img.shields.io/badge/-imrax98-F89F1B?style=flat-pill&logo=leetcode&logoColor=white&link=https://leetcode.com/imrax98/)](https://leetcode.com/imrax98/)
-[![Codechef Badge](https://img.shields.io/badge/-carfry-brown?style=flat-pill&logo=codechef&logoColor=white&link=https://codechef.com/users/carfry/)](https://codechef.com/users/carfry/)
-[![binarysearch](https://binarysearch.com/api/shields/mangal)](https://binarysearch.com/@/mangal)
+[![Codechef Badge](https://img.shields.io/badge/-carfry-brown?style=flat-pill&logo=codechef&logoColor=white&link=https://www.codechef.com/users/habget)](https://www.codechef.com/users/habget)
 
 
 <h3>Technologies I like</h3>
