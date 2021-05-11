@@ -5,7 +5,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-habget99-blue?style=flat-pill&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/habget99/)](https://www.linkedin.com/in/habget99/)
 [![Gmail Badge](https://img.shields.io/badge/-habeeb.17231@knit.ac.in-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:habeeb.17231@knit.ac.in)](mailto:habeeb.17231@knit.ac.in)
-[![Github Badge](https://img.shields.io/badge/-mhdh-9-black?style=flat-pill&logo=github&logoColor=white&link=https://github.com/mhdh-9/)](https://github.com/mhdh-9/)
+[![Github Badge](https://img.shields.io/badge/-"mhdh-9"-black?style=flat-pill&logo=github&logoColor=white&link=https://github.com/mhdh-9/)](https://github.com/mhdh-9/)
 [![Codechef Badge](https://img.shields.io/badge/-habget-brown?style=flat-pill&logo=codechef&logoColor=white&link=https://www.codechef.com/users/habget)](https://www.codechef.com/users/habget)
 
 
