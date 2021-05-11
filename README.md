@@ -20,11 +20,10 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-pill&logo=Linux&logoColor=black" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0174cd?style=flat-pill&logo=windows&logoColor=white" />
 
-  <img alt="Github Actions" src="https://raster.shields.io/badge/-Github Actions-181717?style=flat-pill&logo=github&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-181717?style=flat-pill&logo=netlify&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-darkorange?style=flat-pill&logo=firebase&logoColor=white" />
+  <img alt="React.JS" src="https://img.shields.io/badge/-React.JS-4479A1?style=flat-pill&logo=react&logoColor=white" />
 
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-pill&logo=postgresql&logoColor=white" />
+
+  <img alt="Mysql" src="https://img.shields.io/badge/-MySql-FCC624?style=flat-pill&logo=mySQL&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-rgb(15 181 84)?style=flat-pill&logo=mongodb&logoColor=white" />
 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-pill&logo=git&logoColor=white" />
