@@ -1,5 +1,4 @@
 ## Hi there 👋 I am [Mohd Habeeb](https://mhdh-9.github.io/website/)
-<img src="https://komarev.com/ghpvc/?username=mhdh-9" />
 
 
 [![Website](https://img.shields.io/badge/-mhdh9.github.io/website/-black?style=flat-pill&logo=google-chrome&logoColor=white&link=https://mhdh-9.github.io/website/)](https://mhdh-9.github.io/website/)
