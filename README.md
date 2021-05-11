@@ -1,12 +1,11 @@
 ## Hi there 👋 I am [Mohd Habeeb](https://mhdh-9.github.io/website/)
 <img src="https://komarev.com/ghpvc/?username=souravrax" />
 
-[![Website](https://img.shields.io/badge/-souravrakshit.me-black?style=flat-pill&logo=google-chrome&logoColor=white&link=https://souravrakshit.me/)](https://souravrakshit.me/)
+[![Website](https://img.shields.io/badge/-souravrakshit.me-black?style=flat-pill&logo=google-chrome&logoColor=white&link=https://mhdh-9.github.io/website/)](https://mhdh-9.github.io/website/)
   
 [![Linkedin Badge](https://img.shields.io/badge/-souravrax-blue?style=flat-pill&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/habget99/)](https://www.linkedin.com/in/habget99/)
 [![Gmail Badge](https://img.shields.io/badge/-rakshitsourav3@gmail.com-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:habeeb.17231@knit.ac.in)](mailto:habeeb.17231@knit.ac.in)
 [![Github Badge](https://img.shields.io/badge/-souravrax-black?style=flat-pill&logo=github&logoColor=white&link=https://github.com/mhdh-9/)](https://github.com/mhdh-9/)
-[![Leetcode Badge](https://img.shields.io/badge/-imrax98-F89F1B?style=flat-pill&logo=leetcode&logoColor=white&link=https://leetcode.com/imrax98/)](https://leetcode.com/imrax98/)
 [![Codechef Badge](https://img.shields.io/badge/-carfry-brown?style=flat-pill&logo=codechef&logoColor=white&link=https://www.codechef.com/users/habget)](https://www.codechef.com/users/habget)
 
 
